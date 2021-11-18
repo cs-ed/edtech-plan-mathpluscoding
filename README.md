@@ -7,7 +7,8 @@ Provide a brief description of the purpose of your educational technology Plan
 
 ### Course
 
-Describe your course including the name, description, and grade level
+#### Advisory 
+This course is a daily, 30-minute period during which documents (mainly progress reports) are distributed, announcements are made, and students are given the opportunity to study. There are typically three lessons given per week covering topics that include school culture, school policies, college, current events, history, and personal care. Students earn a grade for the course based on weekly deliverables, most of which, are related to one of the lessons. 
 
 ### Situation
 
