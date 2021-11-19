@@ -52,17 +52,26 @@ The main constraint is time. With periods being only 30 minutes long, I expect t
 ### Hardware Specifications
 
 #### Instructor laptop
+
 Dell Inspiron 3000
+
 Intel 2-Core i3-8130U CPU @ 2.20GHz
+
 8 GB of RAM
+
 1000 GB of storage
 
 #### Student Chromebook
+
 All students will have Chromebooks. Although not all of the students have the same Chromebook, most have the following model:
 Dell Chromebook 3100 Education
+
 Intel Celeron 2-Core N4020 CPU @ 2.8GHz
+
 4 GB of RAM
+
 16 GB of storage
+
 11.6" HD (1366 x 768) display
 
 ### Application
