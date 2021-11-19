@@ -21,9 +21,18 @@ The main constraint is time. With periods being only 30 minutes long, I expect t
 
 ### Software Specifications
 
-Describe the software that you will use. Include software used for students as
-well as any software the instructor will use. This should include any software
-installed as well as any online services.
+#### Instructor
+
+##### TechSmith Camtasia version 2019 and Audacity
+For producing lessons on video, I plan on using Camtasia for screen capture and video editing. I plan on using Audacity for editing audio.
+
+##### Microsoft PowerPoint, Google Slides, and Nearpod
+For producing lesson slides, I plan on using Microsoft PowerPoint, which has a feature that allows the user to write directly on the slide and replay the writing at a constant, more reader-friendly pace. When I use this feature, I will convert the slides into a video, then add audio.
+
+When I want to share the lesson slides with students, I will be using Google Slides. 
+
+#### Students
+
 
 ### Hardware Specifications
 
