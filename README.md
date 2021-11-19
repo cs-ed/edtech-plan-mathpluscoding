@@ -11,10 +11,11 @@ Provide a brief description of the purpose of your educational technology Plan
 This course is a daily, 30-minute period during which documents (mainly progress reports) are distributed, announcements are made, and students are given the opportunity to study. There are typically three lessons given per week covering topics that include school culture, school policies, college, current events, history, and personal care. Students earn a grade for the course based on weekly deliverables, most of which, are related to one of these lessons. 
 
 ### Situation
+My goal is to incorporate computer science into the Advisory course by giving one computer science lesson per week. While the objectives of some of these lessons will be aligned with computer science standards and cover topics such as data types and control structures, the overall objective is for students to produce a web page that students can publish, for free, on GitHub that can respond to user input. As such, the focus of the lessons will be HTML, CSS, and Javascript. What will my students build? Perhaps a GPA calculator or a web page that determines if the user is on track to graduate high school. 
 
-Provide relevant details about your course and/or school that will influence the
-decisions in the plan. What assets and constraints do you face? What is the
-context of your class, considering demographic and technical resources?
+All of the students in my school are given a Chromebook to take home and bring to class. Students have wireless internet access at school and can get a WIFI hotspot for home from the school if they don't have internet access at home. The school district's plan is to get enough computers so that each class has a set of computers that students can use at school and each student has a computer to keep at home. Students are required to use the Chromebook even if they have another computers. The use of Chromebooks means that student work and submission of student work will need to be done online, which GitHub and many cloud-based IDEs should accommodate.
+
+The main constraint is time. With periods being only 30 minutes long, I expect to have no more than 17 hours per semester for lessons, problets, and labs. But even with limited time, the prospect of building something that they can share via a link may motivate some of my students to use their time efficiently in the class. Based on informal surveys in my classes, I serve a student population that had little exposure to computer science in school.  
 
 ## Plan
 
