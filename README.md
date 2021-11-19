@@ -51,8 +51,13 @@ The main constraint is time. With periods being only 30 minutes long, I expect t
 
 ### Hardware Specifications
 
-Describe the hardware requirements for your class. Provide specific requirements
-wherever necessary.
+#### Instructor laptop
+Dell Inspiron 3000
+
+
+
+All students will have Chromebooks. Although not all of the students have the same Chromebook, most have the following model:
+
 
 ### Application
 
