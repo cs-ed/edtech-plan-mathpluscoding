@@ -64,6 +64,7 @@ Intel 2-Core i3-8130U CPU @ 2.20GHz
 #### Student Chromebook
 
 All students will have Chromebooks. Although not all of the students have the same Chromebook, most have the following model:
+
 Dell Chromebook 3100 Education
 
 Intel Celeron 2-Core N4020 CPU @ 2.8GHz
@@ -73,6 +74,17 @@ Intel Celeron 2-Core N4020 CPU @ 2.8GHz
 16 GB of storage
 
 11.6" HD (1366 x 768) display
+
+##### In-Class Internet Access
+
+Teachers and students have wireless internet access in the classroom delivered by a Cisco Aironet 2702i controller-based wireless access point.
+
+Results of a recent speed test were as follows:
+- 40.2 Mbps download
+- 9.98 Mbps upload
+- Latency: 2ms
+
+The in-class internet connection is fast and should be able to handle a class set of computers streaming video at the same time.
 
 ### Application
 
