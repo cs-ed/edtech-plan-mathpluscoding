@@ -34,7 +34,7 @@ The main constraint is time. With periods being only 30 minutes long, I expect t
 - Google Classroom
 - PowerSchool Teacher
 - GitHub Education
-- GitHub Codespaces
+- GitHub Codespaces (or equivalent cloud-based IDE)
 - Google Chrome (or equivalent) browser
 - Microsoft Windows 10 OS
 
@@ -47,7 +47,7 @@ The main constraint is time. With periods being only 30 minutes long, I expect t
 - Google Classroom
 - PowerSchool
 - GitHub Education
-- GitHub Codespaces
+- GitHub Codespaces (or equivalent cloud-based IDE)
 
 ### Hardware Specifications
 
@@ -86,11 +86,11 @@ Results of a recent speed test were as follows:
 
 The in-class internet connection is fast and should be able to handle a class set of computers streaming video at the same time.
 
-### Application
+#### Projector and Speakers
 
-Describe how you will use the above technologies in the class, including
-in-class activities, homework, assignments, and assessment. Justify the use
-in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
+I will be using a HD Canon projector in the classroom to project instruction/directions. Audio will be delievered via a set of Logitech speakers connected to my computer.
+
+### Application
 
 ##### TechSmith Camtasia version 2019, Audacity, and Google Drive
 
@@ -116,11 +116,13 @@ I will be assigning lessons on Google classroom. I will also provide feedback, s
 
 I use PowerSchool Teacher for keeping grade and attendance records. Students and their guardians already have access to PowerSchool.
 
-#### GitHub Education and GitHub Codespaces
+#### GitHub Education and GitHub Codespaces (or equivalent)
 
 I will be sharing a template for the final deliverable on GitHub classroom. I will sync my GitHub classroom to my Google classroom. I will keep track of my students' progress by checking their published webpaged on GitHub.
 
-I plan on using GitHub Codespaces (or other cloud-based equivalent IDE) for demonstrations in the classroom and in my lesson videos. 
+Each lesson will include at least one problet projected in the classroom, but also viewable on the Nearpod lesson. Students can use a cloud-based IDE to check the results of their HTML, CSS, and/or Javascript response to the problet. Nearpod can be used to gather individual responses, which can then lead to small group and class discussions. Which can then lead to clarification per the peer instruction general practice. I will then give students time to add an element incorporating what they learned in the lesson to their final deliverable (semester project): their webpage published on GitHub. 
+
+I plan on using GitHub Codespaces (or other cloud-based equivalent IDE if GitHub Codespaces is not free for students) for demonstrations in the classroom and in my lesson videos. 
 
 #### Google Chrome (or equivalent) browser
 
@@ -128,7 +130,7 @@ I will need a browser to access some of the online software referenced above.
 
 #### Microsoft Windows 10 OS
 
-I have some of the software referenced above installed on a PC running Microsoft Windows 10.
+I have some of the software referenced above installed on a PC running Microsoft Windows 10. These software choices were made based on the OS on my laptop.
 
 ### Impacts
 
