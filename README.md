@@ -35,10 +35,19 @@ The main constraint is time. With periods being only 30 minutes long, I expect t
 - PowerSchool Teacher
 - GitHub Education
 - GitHub Codespaces
+- Google Chrome (or equivalent) browser
+- Microsoft Windows 10 OS
 
 #### Students
 
-
+- Google Chrome OS
+- Google Drive
+- Google Slides
+- Nearpod
+- Google Classroom
+- PowerSchool
+- GitHub Education
+- GitHub Codespaces
 
 ### Hardware Specifications
 
@@ -78,6 +87,14 @@ I use PowerSchool Teacher for keeping grade and attendance records.
 I will be sharing a template for the final deliverable on GitHub classroom. I will sync my GitHub classroom to my Google classroom. I will keep track of my students' progress by checking their published webpaged on GitHub.
 
 I plan on using GitHub Codespaces (or other cloud-based equivalent IDE) for demonstrations in the classroom and in my lesson videos. 
+
+#### Google Chrome (or equivalent) browser
+
+I will need a browser to access some of the online software referenced above.
+
+#### Microsoft Windows 10 OS
+
+I have some of the software referenced above installed on a PC running Microsoft Windows 10.
 
 ### Impacts
 
