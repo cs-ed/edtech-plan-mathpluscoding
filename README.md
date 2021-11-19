@@ -42,7 +42,13 @@ I will be assigning lessons on Google classroom. I will also provide feedback, s
 
 I use PowerSchool Teacher for keeping grade and attendance records.
 
+#### GitHub Education and GitHub Codespaces
+I will be sharing a template for the final deliverable on GitHub classroom. I will sync my GitHub classroom to my Google classroom. I will keep track of my students' progress by checking their published webpaged on GitHub.
+
+I plan on using GitHub Codespaces (or other cloud-based equivalent IDE) for demonstrations in the classroom and in my lesson videos. 
+
 #### Students
+
 
 
 ### Hardware Specifications
@@ -55,6 +61,30 @@ wherever necessary.
 Describe how you will use the above technologies in the class, including
 in-class activities, homework, assignments, and assessment. Justify the use
 in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
+
+##### TechSmith Camtasia version 2019, Audacity, and Google Drive
+For producing lessons on video, I plan on using Camtasia for screen capture and video editing. I plan on using Audacity for editing audio. 
+
+Lesson videos will be uploaded onto Google Drive.
+
+##### Microsoft PowerPoint, Google Slides, and Nearpod
+For producing lesson slides, I plan on using Microsoft PowerPoint, which has a feature that allows the user to write directly on the slide and replay the writing at a constant, more reader-friendly pace. When I use this feature, I will convert the slides into a video, then add audio.
+
+When I want to share the lesson slides with students, I will be using Google Slides.
+
+When appropriate, I will be uploading the presentation on to Nearpod, which allows the addition of activities that I can use as checks for understanding. 
+
+Lesson videos will be embedded in the presentation.
+
+#### Google Classroom and PowerSchool Teacher
+I will be assigning lessons on Google classroom. I will also provide feedback, such as scores on submitted work, on Google classroom. 
+
+I use PowerSchool Teacher for keeping grade and attendance records.
+
+#### GitHub Education and GitHub Codespaces
+I will be sharing a template for the final deliverable on GitHub classroom. I will sync my GitHub classroom to my Google classroom. I will keep track of my students' progress by checking their published webpaged on GitHub.
+
+I plan on using GitHub Codespaces (or other cloud-based equivalent IDE) for demonstrations in the classroom and in my lesson videos. 
 
 ### Impacts
 
