@@ -94,25 +94,27 @@ in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
 
 ##### TechSmith Camtasia version 2019, Audacity, and Google Drive
 
-For producing lessons on video, I plan on using Camtasia for screen capture and video editing. I plan on using Audacity for editing audio. 
+For producing lessons on video, I plan on using Camtasia for screen capture and video editing. I plan on using Audacity for editing audio. I already have these software applications installed on my computer and have used them in the past to produce instructional videos.
 
-Lesson videos will be uploaded onto Google Drive.
+Lesson videos will be uploaded onto Google Drive, which the school district has adopted and all students have access to using their school Google accounts.
+
+Lessons will be produced with the multimedia principles in mind such as as the coherence principle, pre-training principle, and the segmentation principle. I will be the one narrating in the videos to provide both the visual and auditory elements (per the Dual-Coding Theory and voice principle). 
 
 ##### Microsoft PowerPoint, Google Slides, and Nearpod
 
-For producing lesson slides, I plan on using Microsoft PowerPoint, which has a feature that allows the user to write directly on the slide and replay the writing at a constant, more reader-friendly pace. When I use this feature, I will convert the slides into a video, then add audio.
+For producing lesson slides, I plan on using Microsoft PowerPoint, which has a feature that allows the user to write directly on the slide and replay the writing at a constant, more reader-friendly pace. When I use this feature, I will convert the slides into a video, then add audio. This feature will help me to apply the signaling principle and spatial contiguity principle in my videos.
 
-When I want to share the lesson slides with students, I will be using Google Slides.
+When I want to share the lesson slides with students, I will be using Google Slides. The school district has adopted the Google suite of cloud-based applications such as Docs, Sheets, and Slides.
 
-When appropriate, I will be uploading the presentation on to Nearpod, which allows the addition of activities that I can use as checks for understanding. 
+When appropriate, I will be uploading the presentation on to Nearpod, which allows the addition of activities that I can use as checks for understanding. All of my students have access to Nearopd using their school Google accounts and have experience using it after a year of distance learning.  
 
-Lesson videos will be embedded in the presentation.
+Lesson videos will be embedded in the presentation to keep all relevant content accessible via one link.
 
 #### Google Classroom and PowerSchool Teacher
 
-I will be assigning lessons on Google classroom. I will also provide feedback, such as scores on submitted work, on Google classroom. 
+I will be assigning lessons on Google classroom. I will also provide feedback, such as scores on submitted work, on Google classroom. Students may also comment on each others' web pages on Google classroom if I post each student's webpage link as a separate Google classroom material post. 
 
-I use PowerSchool Teacher for keeping grade and attendance records.
+I use PowerSchool Teacher for keeping grade and attendance records. Students and their guardians already have access to PowerSchool.
 
 #### GitHub Education and GitHub Codespaces
 
