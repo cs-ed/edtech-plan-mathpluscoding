@@ -198,12 +198,17 @@ All of the technology that I've listed above should be free to the students and 
 
 Most of the technology is cloud-based (that is, accessible online) and some technology (such as Nearpod) were adopted specifically for use during distance learning. Since all of the lessons and work will be delivered and submitted online, adapting to transitions back to distance learning (virtual education) should not be as challenging as was the case during the 2020-2021 academic year. Also, students have experience using all of the technology I've listed except for GitHub and the Tryit Editor. 
 
-My primary concern or challenge is the display size on the students' Chromebooks. I need to be mindful of this when producing videos and presentations that students will display on their 11.6" monitors. Another concern or challenge is that I do not overwhelm students, which I plan 
+My primary concern or challenge is the display size on the students' Chromebooks. I need to be mindful of this when producing videos and presentations that students will display on their 11.6" monitors.
+
+In these videos, I will apply the following principles:
+- voice principle (use human narration),
+- coherence principle (cut out any extraneious information by focusing on the specific objective),
+- redundancy principle (complement visuals with audio by adding audio after recording video),
+- spatial contiguity principle (keep text near graphics or screen captures using "ink replay"), and the
+- segmentation principle (keep videos short by focusing on the specific objective).
 
 I am hoping to address class resiliency by making the project a webpage that students can build and share online. I expect some students to learn new "tricks" on their own that they will incorporate into their web pages and share with their classmates. Since the lessons will be given during Advisory (not an actual computer science class), I want to make the project fun and open to student creativity. I want students to be motivated, not by the grade, but by learning a new way of expressing their creativity and using what they've learned beyond the classroom.
 
-#### Impact on Students as They Take CS Classes
-One of the 
-
-#### Impact on Students in Other Subjects and Beyond the Classroom
+#### Impact: Future Computer Science Classes and Beyond the Classroom 
+In addition to buidling resiliency, a goal of mine in teaching computer science during Advisory is to prepare my students for future Computer Science classes by making sure they're familiar with concepts like variables, control structures, and functions. Another, just as important, goal is to make sure my students want to take Computer Science classes in the future. In my plan, I described how I plan on encouraging collaboration through peer instruction and by giving students a choice of working independently or in pairs on their final project. I also decribed how the final project, which students will work on incrementally over the semester, will provide students choice of making a web page that is simply fun or serves a practical function that is specific to a discipline or that serves humanity. Having this a goal, I will put emphasis on user input and make time for math operators, dates, and text manipulation.   
 
