@@ -104,7 +104,7 @@ I will be using a HD Canon projector in the classroom to project instruction/dir
 
 
 
-#### Purpose of Listed Software
+#### Purpose of Technology
 
 ##### TechSmith Camtasia version 2019, Audacity, and Google Drive
 
@@ -159,8 +159,14 @@ I have some of the software referenced above installed on a PC running Microsoft
 #### How will the technology help *all* students learn?
 All of the technology that I've listed above should be free to the students and accessible on their Chromebooks.
 
-Most of the technology is cloud-based (that is, accessible online) and some technology (such as Nearpod) were adopted specifically for use during distance learning. Since all of the lessons and work will be delivered and submitted online, adapting to transitions back to distance learning (virtual education) should not be as challenging as was the case during the 2020-2021 academic year. Also, students have experience using all of the technology I've listed except for GitHub. 
+Most of the technology is cloud-based (that is, accessible online) and some technology (such as Nearpod) were adopted specifically for use during distance learning. Since all of the lessons and work will be delivered and submitted online, adapting to transitions back to distance learning (virtual education) should not be as challenging as was the case during the 2020-2021 academic year. Also, students have experience using all of the technology I've listed except for GitHub and the Tryit Editor. 
 
-My primary concern or challenge is the display size on the students' Chromebooks. I need to be mindful of this when producing videos and presentations that students will display on their 11.6" monitors.
+My primary concern or challenge is the display size on the students' Chromebooks. I need to be mindful of this when producing videos and presentations that students will display on their 11.6" monitors. 
 
 I am hoping to address class resiliency by making the project a webpage that students can build and share online. I expect some students to learn new "tricks" on their own that they will incorporate into their web pages and share with their classmates. Since the lessons will be given during Advisory (not an actual computer science class), I want to make the project fun and open to student creativity. I want students to be motivated, not by the grade, but by learning a new way of expressing their creativity.
+
+#### Impact on Students as They Take CS Classes
+
+
+#### Impact on Students in Other Discplines
+
