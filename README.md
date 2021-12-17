@@ -39,7 +39,7 @@ The main constraint is time. With periods being only 30 minutes long, I expect t
 - GoGuardian
 - Tryit Editor v3.7 (or equivalent)
 - Google Chrome (or equivalent) browser
-- Microsoft Windows 10 OS
+- Microsoft Windows 11 OS
 
 #### Students
 
