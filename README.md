@@ -83,7 +83,7 @@ All students will have Chromebooks. Although not all of the students have the sa
 
 **Display:** 11.6" HD (1366 x 768) display
 
-##### In-Class Internet Access
+#### In-Class Internet Access
 
 Teachers and students have wireless internet access in the classroom delivered by a Cisco Aironet 2702i controller-based wireless access point.
 
