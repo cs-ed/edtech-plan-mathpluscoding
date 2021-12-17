@@ -100,6 +100,12 @@ I will be using a HD Canon projector in the classroom to project instruction/dir
 
 ### Application
 
+#### Use of Technology in Common Day-to-Day Activities
+
+
+
+#### Purpose of Listed Software
+
 ##### TechSmith Camtasia version 2019, Audacity, and Google Drive
 
 For producing lessons on video, I plan on using Camtasia for screen capture and video editing. I plan on using Audacity for editing audio. I already have these software applications installed on my computer and have used them in the past to produce instructional videos.
@@ -122,17 +128,17 @@ Lesson videos will be embedded in the presentation to keep all relevant content 
 
 Also, for videos that I've recorded 
 
-#### Google Classroom and PowerSchool Teacher
+##### Google Classroom and PowerSchool Teacher
 
 I will be assigning lessons on Google classroom. I will also provide feedback, such as scores on submitted work, on Google classroom. Students may also comment on each others' web pages on Google classroom if I post each student's webpage link as a separate Google classroom material post. 
 
 I use PowerSchool Teacher for keeping grade and attendance records. Students and their guardians already have access to PowerSchool.
 
-#### GitHub Education
+##### GitHub Education
 
 I will be sharing a template for the final deliverable on GitHub classroom. I will sync my GitHub classroom to my Google classroom. I will keep track of my students' progress by checking their published webpaged on GitHub. 
 
-#### Tryit Editor v3.7 (or equivalent)
+##### Tryit Editor v3.7 (or equivalent)
 
 The editor is free and can be accessed via this link: https://www.w3schools.com/html/tryit.asp?filename=tryhtml_default_default.
 
@@ -140,11 +146,11 @@ Each lesson will include at least one problet projected in the classroom, but al
 
 I plan on using Tryit Editor (or equivalent) for demonstrations in the classroom and in my lesson videos.
 
-#### Google Chrome (or equivalent) browser
+##### Google Chrome (or equivalent) browser
 
 I will need a browser to access some of the online software referenced above.
 
-#### Microsoft Windows 10 OS
+##### Microsoft Windows 10 OS
 
 I have some of the software referenced above installed on a PC running Microsoft Windows 10. These software choices were made based on the OS on my laptop.
 
