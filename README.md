@@ -53,31 +53,33 @@ The main constraint is time. With periods being only 30 minutes long, I expect t
 
 #### Instructor laptop
 
-Model: Dell Inspiron 3000
+**Model:** Dell Inspiron 3000
 
-CPU: Intel 2-Core i3-8130U CPU @ 2.20GHz
+**CPU:** Intel 2-Core i3-8130U CPU @ 2.20GHz
 
-Total Memory: 8 GB of RAM
+**Total Memory:** 8 GB of RAM
 
-Total Storage: 1000 GB of storage
+**Total Storage:** 1000 GB of storage
 
-Networking: Wi-Fi 5 (Google Nest AC2200 mesh WiFi router at home)
+**Networking:** Wi-Fi 5 (Google Nest AC2200 mesh WiFi router at home)
+
+**Display:** 15.6" HD (1920 x 1080) display
 
 #### Student Chromebook
 
 All students will have Chromebooks. Although not all of the students have the same Chromebook, most have the model listed below.
 
-Model: Dell Chromebook 3100 Education
+**Model:** Dell Chromebook 3100 Education
 
-CPU: Intel Celeron 2-Core N4020 CPU @ 2.8GHz
+**CPU:** Intel Celeron 2-Core N4020 CPU @ 2.8GHz
 
-Total Memory: 4 GB of RAM
+**Total Memory:** 4 GB of RAM
 
-Total Storage: 16 GB of storage
+**Total Storage:** 16 GB of storage
 
-Networking: Wi-Fi 5 (see "In-Class Internet Access" for details)
+**Networking:** Wi-Fi 5 (see "In-Class Internet Access" for details)
 
-Display: 11.6" HD (1366 x 768) display
+**Display:** 11.6" HD (1366 x 768) display
 
 ##### In-Class Internet Access
 
