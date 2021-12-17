@@ -36,6 +36,7 @@ The main constraint is time. With periods being only 30 minutes long, I expect t
 - Google Classroom
 - PowerSchool Teacher
 - GitHub Education
+- GoGuardian
 - Tryit Editor v3.7 (or equivalent)
 - Google Chrome (or equivalent) browser
 - Microsoft Windows 10 OS
@@ -102,7 +103,39 @@ I will be using a HD Canon projector in the classroom to project instruction/dir
 
 #### Use of Technology in Common Day-to-Day Activities
 
+##### Objectives
+The objectives of lessons will be very specific. For example: Students will be able to use the id attribute to take user input in a textbox, assign it to a variable, then update a paragraph text upon the click of a button. Before this lesson, students should already be familiar with adding input and button tags in HTML as well as using variables and functions in Javascript. The focus of this lesson will be using the id attribute. Students should also be familiar with the use of comments in HTML and in Javascript.
 
+The objective will be the first slide of the lesson presentation and I will project it on the screen as students access their lesson on Google classroom and log in to Nearpod.
+
+##### Lesson Videos
+For most lessons, I will then show a video recording, with narration, of me entering HTML, CSS, and/or Javascript into the Tryit Editor. I will try to plan each lesson to build upon the last, so the video will be short and focus on the specific objective of the lesson. I hope 
+
+For lessons where I need to emphasize language specific to computer science, I will produce videos using the "ink replay" feature on PowerPoint. 
+
+In these videos, I will apply the following principles:
+- voice principle (use human narration),
+- coherence principle (cut out any extraneious information by focusing on the specific objective),
+- redundancy principle (complement visuals with audio by adding audio after recording video),
+- spatial contiguity principle (keep text near graphics or screen captures using "ink replay"), and the
+- segmentation principle (keep videos short by focusing on the specific objective).
+
+##### Making the Lesson Accessible
+Most of the "code" will be shared on Google classroom to make the lesson more accessible to students who are not yet efficient at typing. The content of the video will also be shared on Google classroom in a non-video format (most likely Google slides) to make it more accessible to students without fast internet access outside of school.  
+
+Students will be able to copy and paste the shared "code" into Tryit Editor, then add "code" that was demonstrated in the video.
+
+##### Problets, Peer Instruction, and Nearpod
+After students are given an opportunity to try out the code demonstrated in the video using the TryIt Editor, I will pose a problet. For example: Add a second textbox to your webpage, then update a paragraph text upon the click of a button using values from both textboxes. Students will be given limited time to type in and test their responses using the TryIt Editor. When time is up, students will copy and paste their response into Nearpod.
+
+After collecting individual responses using Nearpod, I will provide some feedback, then give students an opportunity to share their responses in small groups and collaborate on a group response. 
+
+I will collect group responses using Nearpod, then discuss and clarify as needed.
+
+##### The Project: Being Creative, Having Fun (and Choice), Applying Skills Across Disciplines, and Serving Humanity
+The "final" deliverable for these lessons will be a webpage published (for free) on GitHub education that incorporates the skills learned. This will be their project for the semester and students will be given time every week to work on it. 
+
+While each student will be expected to publish a web page on their own GitHub account, students will be allowed to collaborate (in pairs) on that web page. The web page will give students a chance to be creative and make something that is meaningful and relevant to them. I will give students a choice of creating a web page that reflects their interests, a web page that performs a function specific to a discipline (such as a calculator for mathematics) or a fuction that serves humanity (such as a to-do list), or a web page that is simply fun.
 
 #### Purpose of Technology
 
@@ -137,6 +170,10 @@ I use PowerSchool Teacher for keeping grade and attendance records. Students and
 ##### GitHub Education
 
 I will be sharing a template for the final deliverable on GitHub classroom. I will sync my GitHub classroom to my Google classroom. I will keep track of my students' progress by checking their published webpaged on GitHub. 
+
+##### GoGuardian
+
+My school district has recently (December of 2021) adopted GoGuardian to assist instructors keep student focus on the lesson when computers are needed for instruction and for students to demonstrate learning. I will use GoGuardian during the lesson to restrict student access to websites that are not necessary during the lesson.
 
 ##### Tryit Editor v3.7 (or equivalent)
 
