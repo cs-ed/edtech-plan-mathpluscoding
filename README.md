@@ -198,7 +198,9 @@ All of the technology that I've listed above should be free to the students and 
 
 Most of the technology is cloud-based (that is, accessible online) and some technology (such as Nearpod) were adopted specifically for use during distance learning. Since all of the lessons and work will be delivered and submitted online, adapting to transitions back to distance learning (virtual education) should not be as challenging as was the case during the 2020-2021 academic year. Also, students have experience using all of the technology I've listed except for GitHub and the Tryit Editor. 
 
-My primary concern or challenge is the display size on the students' Chromebooks. I need to be mindful of this when producing videos and presentations that students will display on their 11.6" monitors.
+My primary concern or challenge is to produce videos that are effective and accessible. In terms of accessibility, the display size on the students' Chromebooks is a concern. I need to be mindful of this when producing videos and presentations that students will display on their 11.6" monitors. I will also make the content in the videos available in non-video formats for students who do not have fast internet access at home. In terms of producing vidoes that are effective, I need to keep in mind the multimedia principles and also establish a workflow that is sustainable. 
+
+I need to keep the videos short
 
 In these videos, I will apply the following principles:
 - voice principle (use human narration),
