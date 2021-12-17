@@ -108,6 +108,8 @@ Lesson videos will be uploaded onto Google Drive, which the school district has 
 
 Lessons will be produced with the multimedia principles in mind such as as the coherence principle, pre-training principle, and the segmentation principle. I will be the one narrating in the videos to provide both the visual and auditory elements (per the Dual-Coding Theory and voice principle). 
 
+I plan on recording my screen, with narration, as I type HTML, CSS, and/or Javascript in Tryit Editor (or equivalent). These videos will be short with very specific objectives.
+
 ##### Microsoft PowerPoint, Google Slides, and Nearpod
 
 For producing lesson slides, I plan on using Microsoft PowerPoint, which has a feature that allows the user to write directly on the slide and replay the writing at a constant, more reader-friendly pace. When I use this feature, I will convert the slides into a video, then add audio. This feature will help me to apply the signaling principle and spatial contiguity principle in my videos.
@@ -117,6 +119,8 @@ When I want to share the lesson slides with students, I will be using Google Sli
 When appropriate, I will be uploading the presentation on to Nearpod, which allows the addition of activities that I can use as checks for understanding. All of my students have access to Nearopd using their school Google accounts and have experience using it after a year of distance learning.  
 
 Lesson videos will be embedded in the presentation to keep all relevant content accessible via one link.
+
+Also, for videos that I've recorded 
 
 #### Google Classroom and PowerSchool Teacher
 
