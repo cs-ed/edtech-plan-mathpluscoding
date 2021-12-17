@@ -1,7 +1,9 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=5836670&assignment_repo_type=AssignmentRepo)
 # Educational Technology Plan
 
-Provide a brief description of the purpose of your educational technology Plan
+## Synopsis
+
+In this educational technology plan I describe the hardware and software that I will use to teach HTML, CSS, and Javascript to a 9th-grade Advisory class in the upcoming semester. I describe specific ways I will incorporate educational technologies and evidence-based pedagogy in day-to-day lessons in order to help with student learning. I also describe specific strategies for establishing an inclusive computing classroom in order to spark interest and broaden participation in computer science. By the end of the semester, I expect my students to be able to collaborate on and create a web page that reflects their interests, demonstrates skills that they can use across disciplines, and perhaps even serve humanity. 
 
 ## Context
 
