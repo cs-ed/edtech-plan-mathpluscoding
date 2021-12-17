@@ -36,7 +36,7 @@ The main constraint is time. With periods being only 30 minutes long, I expect t
 - Google Classroom
 - PowerSchool Teacher
 - GitHub Education
-- GitHub Codespaces (or equivalent cloud-based IDE)
+- Tryit Editor v3.7 (or equivalent)
 - Google Chrome (or equivalent) browser
 - Microsoft Windows 10 OS
 
@@ -49,7 +49,7 @@ The main constraint is time. With periods being only 30 minutes long, I expect t
 - Google Classroom
 - PowerSchool
 - GitHub Education
-- GitHub Codespaces (or equivalent cloud-based IDE)
+- Tryit Editor v3.7 (or equivalent)
 
 ### Hardware Specifications
 
@@ -124,13 +124,17 @@ I will be assigning lessons on Google classroom. I will also provide feedback, s
 
 I use PowerSchool Teacher for keeping grade and attendance records. Students and their guardians already have access to PowerSchool.
 
-#### GitHub Education and GitHub Codespaces (or equivalent)
+#### GitHub Education
 
-I will be sharing a template for the final deliverable on GitHub classroom. I will sync my GitHub classroom to my Google classroom. I will keep track of my students' progress by checking their published webpaged on GitHub.
+I will be sharing a template for the final deliverable on GitHub classroom. I will sync my GitHub classroom to my Google classroom. I will keep track of my students' progress by checking their published webpaged on GitHub. 
 
-Each lesson will include at least one problet projected in the classroom, but also viewable on the Nearpod lesson. Students can use a cloud-based IDE to check the results of their HTML, CSS, and/or Javascript response to the problet. Nearpod can be used to gather individual responses, which can then lead to small group and class discussions. Which can then lead to clarification per the peer instruction general practice. I will then give students time to add an element incorporating what they learned in the lesson to their final deliverable (semester project): their webpage published on GitHub. 
+#### Tryit Editor v3.7 (or equivalent)
 
-I plan on using GitHub Codespaces (or other cloud-based equivalent IDE if GitHub Codespaces is not free for students) for demonstrations in the classroom and in my lesson videos. 
+The editor is free and can be accessed via this link: https://www.w3schools.com/html/tryit.asp?filename=tryhtml_default_default.
+
+Each lesson will include at least one problet projected in the classroom, but also viewable on the Nearpod lesson. Students can use the Tryit Editor (or equivalent) to instantly  check the results of their HTML, CSS, and/or Javascript response to the problet. Nearpod can be used to gather individual responses, which can then lead to small group and class discussions. Which can then lead to clarification per the peer instruction general practice. I will then give students time to add an element incorporating what they learned in the lesson to their final deliverable (semester project): their webpage published on GitHub. 
+
+I plan on using Tryit Editor (or equivalent) for demonstrations in the classroom and in my lesson videos.
 
 #### Google Chrome (or equivalent) browser
 
