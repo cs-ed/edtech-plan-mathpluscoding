@@ -126,7 +126,7 @@ When appropriate, I will be uploading the presentation on to Nearpod, which allo
 
 Lesson videos will be embedded in the presentation to keep all relevant content accessible via one link.
 
-Also, for videos that I've recorded 
+Also, for videos that I've recorded, all the relevant information will be embedded in the lesson slides so that it is accessible in a non-video format.
 
 ##### Google Classroom and PowerSchool Teacher
 
